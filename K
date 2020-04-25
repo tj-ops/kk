@@ -1,0 +1,3 @@
+*Guide- Cruising Altitude*
+
+All aircraft between FL290 (29,000ft) and FL410 (41,000ft) must obey RVSM (Reduced Vertical Separation Minima). If you’re traveling on a heading from 360-179, you should be on an ODD number flight level (310,330, etc). If you’re traveling on a heading from 180-359, you should be on an EVEN number flight level (320,340, etc).
